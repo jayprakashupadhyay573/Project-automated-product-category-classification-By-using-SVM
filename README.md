@@ -1,1 +1,0 @@
-# Project-automated-product-category-classification-By-using-SVM
