@@ -80,3 +80,4 @@ The goal of this project is to demonstrate a real-world machine learning deploym
 **Jay Prakash Upadhyay**  
 B.Tech – Computer Science (CSBS)  
 Machine Learning Enthusiast
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/1beef158-b9e1-4914-a453-0e805bdf3810" />
